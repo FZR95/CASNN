@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/mnt/nfs/ORT-MODEL-TEST/ortbuild_7020/lib/
